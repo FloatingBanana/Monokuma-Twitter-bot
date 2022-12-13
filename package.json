@@ -9,7 +9,7 @@
   "author": "FloatingBanana",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "oauth": "^0.9.15",
     "random-item": "^3.0.0",
     "twit": "^2.2.11"
